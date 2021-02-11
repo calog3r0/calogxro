@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Give it a try
+
+▶️ [Briscola.js](https://calog3r0.github.io/demo/briscola.js/index.html)
+▶️ [ClickLog.js](https://calog3r0.github.io/demo/clicklog.js/index.html)
+▶️ [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/)
