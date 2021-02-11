@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **calog3r0/calog3r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ### Give it a try
 
-- ▶️ [Briscola.js](https://calog3r0.github.io/demo/briscola.js/index.html)
-- ▶️ [ClickLog.js](https://calog3r0.github.io/demo/clicklog.js/index.html)
-- ▶️ [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/)
+- [Briscola.js](https://calog3r0.github.io/demo/briscola.js/index.html): card game
+- [ClickLog.js](https://calog3r0.github.io/demo/clicklog.js/index.html): 🤔
+- [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension for searching WordReference without leaving the page
