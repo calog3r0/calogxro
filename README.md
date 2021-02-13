@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Demos (you can try in your browser)
+### Demos
 
 - [Briscola.js](https://calog3r0.github.io/demo/briscola.js/index.html): card game
 - [ClickLog.js](https://calog3r0.github.io/demo/clicklog.js/index.html): 🤔
