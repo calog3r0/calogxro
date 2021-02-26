@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - [Briscola.js](https://calog3r0.github.io/demo/briscola.js/index.html): card game
 - [ClickLog.js](https://calog3r0.github.io/demo/clicklog.js/index.html): 🤔
-- [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension for searching WordReference without leaving the page
+- [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
