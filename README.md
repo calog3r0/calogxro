@@ -10,6 +10,8 @@ I'm a Software Engineer and Backend Developer with:
 Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view) 
 or reading my [full CV](https://drive.google.com/file/d/1f9li-RTNsb_CTaoYD8sFnNtre_2sdF4f/view).
 
+You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/).
+
 ### Demos
 
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): card game
