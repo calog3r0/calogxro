@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Demos
 
-- [Briscola.js](https://calog3r0.github.io/demo/briscola.js/index.html): card game
+- [Briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): card game
 - [ClickLog.js](https://clicklogjs.web.app/): 🤔
 - [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
 - [BrisGolang](http://18.197.141.191:8080/): card game
