@@ -9,17 +9,17 @@ I'm a Software Engineer and Backend Developer with:
 
 ▶️ core skills
 
-⚪️ php (codeigniter, laravel, wordpress, symfony) 
-⚪️ node.js/javascript, familiar with typescript 
-⚪️ sql & nosql databases (mysql, postgresql, sqlite, mongodb)  
-⚪️ web services (soap, rest)  
+- php (codeigniter, laravel, wordpress, symfony) 
+- node.js/javascript, familiar with typescript
+- sql & nosql databases (mysql, postgresql, sqlite, mongodb)
+- web services (soap, rest)
 
 
 ➕ other skills
 
-⚪️ docker, aws, linux
-⚪️ git, python, java, go (golang)
-⚪️ system administration: services, scheduling, backup, scripting
+- docker, aws, linux
+- git, python, java, go (golang)
+- system administration: services, scheduling, backup, scripting
 
 Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view) 
 or reading my [full CV](https://drive.google.com/file/d/1f9li-RTNsb_CTaoYD8sFnNtre_2sdF4f/view).
