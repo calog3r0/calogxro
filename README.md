@@ -9,10 +9,10 @@ I'm a Software Engineer and Backend Developer with:
 
 ▶️ core skills
 
-⚪️ php (codeigniter, laravel, wordpress, symfony)
-⚪️ node.js/javascript, familiar with typescript
-⚪️ sql & nosql databases (mysql, postgresql, sqlite, mongodb)
-⚪️ web services (soap, rest)
+⚪️ php (codeigniter, laravel, wordpress, symfony) 
+⚪️ node.js/javascript, familiar with typescript 
+⚪️ sql & nosql databases (mysql, postgresql, sqlite, mongodb)  
+⚪️ web services (soap, rest)  
 
 
 ➕ other skills
