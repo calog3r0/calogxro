@@ -1,7 +1,24 @@
 ### Hi there 👋
 
+I'm a Software Engineer and Backend Developer with:
+
+- 5+ years of experience in back-end development using PHP & MySQL
+- 2+ years of experience in JS/Node.js programming
+- a prior experience with Java
+- a bachelor’s degree in Computer Science
+
+Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view) 
+or reading my [full CV](https://drive.google.com/file/d/1f9li-RTNsb_CTaoYD8sFnNtre_2sdF4f/view).
+
+### Demos
+
+- [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): card game
+- [clickLog.js](https://clicklogjs.web.app/): 🤔
+- [wrSearch](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
+- [brisGolang](http://18.197.141.191:8080/): card game
+
 <!--
-**calog3r0/calog3r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**calogxro/calogxro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,10 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Demos
-
-- [Briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): card game
-- [ClickLog.js](https://clicklogjs.web.app/): 🤔
-- [WR-Search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
-- [BrisGolang](http://18.197.141.191:8080/): card game
