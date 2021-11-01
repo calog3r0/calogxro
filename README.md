@@ -17,8 +17,8 @@ I'm a Software Engineer and Backend Developer with:
 
 ➕ other skills
 
-- docker, aws, linux
-- git, python, java, go (golang)
+- git, docker, aws, linux
+- python, java, go (golang)
 - system administration: services, scheduling, backup, scripting
 
 Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view) 
