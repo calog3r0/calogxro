@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 I'm a Software Engineer and Backend Developer with:
 
 - 5+ years of experience in back-end development using PHP & MySQL
@@ -11,7 +11,7 @@ Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRA
 or reading my [full CV](https://drive.google.com/file/d/1f9li-RTNsb_CTaoYD8sFnNtre_2sdF4f/view).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/).
-
+-->
 ### Demos
 
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): card game
