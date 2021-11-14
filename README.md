@@ -15,8 +15,8 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/
 
 ### Demos
 
-- [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): card game (JavaScript)
-- [brisGolang](http://18.197.141.191:8080/): card game (Go)
+- [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): Briscola card game (JavaScript)
+- [brisGolang](http://18.197.141.191:8080/): Briscola card game (Go) - Work in progress
 - [clickLog.js](https://clicklogjs.web.app/): 🤔
 - [wrSearch](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
 - [Caffeinated](http://18.197.141.191:8081/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine)
