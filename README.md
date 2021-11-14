@@ -19,7 +19,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/
 - [brisGolang](http://18.197.141.191:8080/): Briscola card game (Go) - Work in progress
 - [clickLog.js](https://clicklogjs.web.app/): 🤔
 - [wrSearch](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
-- [Caffeinated](http://18.197.141.191:8081/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine)
+- [Caffeinated](http://18.197.141.191:8081/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
 
 <!--
 **calogxro/calogxro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
