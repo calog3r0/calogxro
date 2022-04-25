@@ -16,10 +16,13 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/
 ### Demos
 
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): Briscola card game (JavaScript)
-- *brisGolang*: Briscola card game (Go) - WIP
 - [clickLog.js](https://clicklogjs.web.app/): 🤔
 - [wrSearch](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
+
+<!--
+- *brisGolang*: Briscola card game (Go) - WIP
 - *Caffeinated*: ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
+-->
 
 <!--
 **calogxro/calogxro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
