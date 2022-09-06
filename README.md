@@ -1,5 +1,10 @@
-### Hi there 👋
+**Demos:** [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html), 
+[clicklog](https://clicklogjs.web.app/), 
+[wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/)
+
 <!--
+### Hi there 👋
+
 I'm a Software Engineer and Backend Developer with:
 
 - 5+ years of experience in back-end development using PHP & MySQL
@@ -12,13 +17,13 @@ or reading my [full CV](https://drive.google.com/file/d/1f9li-RTNsb_CTaoYD8sFnNt
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/).
 -->
-
+<!--
 ### Demos
 
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): Briscola card game (JavaScript)
 - [clickLog.js](https://clicklogjs.web.app/): 🤔
 - [wrSearch](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
-
+-->
 <!--
 - *brisGolang*: Briscola card game (Go) - WIP
 - *Caffeinated*: ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
