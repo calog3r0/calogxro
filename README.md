@@ -1,6 +1,13 @@
-**Demos:** [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html), 
+**Demos:** 
+[briscola.js](https://calogxro.github.io/demo/briscola.js/index.html), 
 [clicklog](https://clicklogjs.web.app/), 
 [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/)
+
+**Other links:** 
+[linkedin](https://www.linkedin.com/in/calogeromiraglia/),
+[resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view),
+[list of side-projects](https://gist.github.com/calogxro/ad612c52d2a84cc8479ff0e8ff4de242)
+
 
 <!--
 ### Hi there 👋
@@ -12,8 +19,7 @@ I'm a Software Engineer and Backend Developer with:
 - a prior experience with Java
 - a bachelor’s degree in Computer Science
 
-Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view) 
-or reading my [full CV](https://drive.google.com/file/d/1f9li-RTNsb_CTaoYD8sFnNtre_2sdF4f/view).
+Learn more about me on my [resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/calogeromiraglia/).
 -->
