@@ -7,12 +7,12 @@
 [caffeinated](http://3.72.37.48:8001/),
 [decaffeinated](https://labofducks.web.app/decaffeinated/)
 -->
+- [brisGolang](http://3.72.37.48:8080/): Briscola card game (Go)
+- [decaffeinated](https://labofducks.web.app/decaffeinated/): ToDo app made with Vue.js using [Sugar](https://github.com/calogxro/sugar)
+- [caffeinated](http://3.72.37.48:8001/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): Briscola card game (JavaScript)
 - [clickLog.js](https://clicklogjs.web.app/): 🤔
 - [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
-- [brisGolang](http://3.72.37.48:8080/): Briscola card game (Go)
-- [caffeinated](http://3.72.37.48:8001/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
-- [decaffeinated](https://labofducks.web.app/decaffeinated/): ToDo app made with Vue.js using [Sugar](https://github.com/calogxro/sugar)
 
 
 **Other links:** 
