@@ -1,7 +1,10 @@
 **Demos:** 
 [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html), 
 [clicklog](https://clicklogjs.web.app/), 
-[wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/)
+[wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/),
+[brisGolang](http://3.72.37.48:8080/),
+[caffeinated](http://3.72.37.48:8001/),
+[decaffeinated](https://labofducks.web.app/decaffeinated/)
 
 
 **Other links:** 
