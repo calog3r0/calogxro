@@ -14,10 +14,10 @@
 - [clickLog.js](https://clicklogjs.web.app/): 🤔
 - [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Firefox extension
 
-
+<!--
 **Other links:** 
 [side-projects](https://gist.github.com/calogxro/ad612c52d2a84cc8479ff0e8ff4de242)
-
+-->
 
 <!--
 ### Hi there 👋
