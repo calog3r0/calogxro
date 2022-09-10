@@ -16,8 +16,6 @@
 
 
 **Other links:** 
-[linkedin](https://www.linkedin.com/in/calogeromiraglia/),
-[resume](https://drive.google.com/file/d/19yVcf2oG2yRAtPejWLeKDvJbr8n0_FpC/view),
 [side-projects](https://gist.github.com/calogxro/ad612c52d2a84cc8479ff0e8ff4de242)
 
 
