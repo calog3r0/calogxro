@@ -1,4 +1,4 @@
-**Demos:** 
+**Demos** 
 <!--
 [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html), 
 [clicklog](https://clicklogjs.web.app/), 
