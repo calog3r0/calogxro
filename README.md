@@ -12,7 +12,7 @@
 - [caffeinated](http://3.72.37.48:8001/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): Briscola card game (JS, React.js)
 - [clicklog-ng](https://clicklogjs.web.app/): Based on [clicklog.js](https://github.com/calogxro/clicklog.js) - uses localstorage, Google Charts, AngularJS
-- [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): WordReference Extension for 🦊 Firefox - Translate without leaving the page
+- [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Translate without leaving the page - WordReference Extension for 🦊 Firefox
 
 <!--
 **Other links:** 
