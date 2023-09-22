@@ -14,6 +14,8 @@
 - [clicklog-ng](https://clicklogjs.web.app/): Based on [clicklog.js](https://github.com/calogxro/clicklog.js) - uses localstorage, Google Charts, AngularJS
 - [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Translate without leaving the page - WordReference Extension for 🦊 Firefox
 
+👉 All my [side-projects](https://gist.github.com/calogxro/ad612c52d2a84cc8479ff0e8ff4de242#side-projects) ⚒️
+
 <!--
 **Other links:** 
 [side-projects](https://gist.github.com/calogxro/ad612c52d2a84cc8479ff0e8ff4de242)
