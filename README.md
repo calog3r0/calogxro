@@ -7,9 +7,9 @@
 [caffeinated](http://3.72.37.48:8001/),
 [decaffeinated](https://labofducks.web.app/decaffeinated/)
 -->
-- [brisGolang](http://3.65.219.202:8081/): Briscola card game, multiplayer (Go, WebSockets)
+- [brisGolang](http://3.65.219.202:8081/): ⚠ Briscola card game, multiplayer (Go, WebSockets)
 - [decaffeinated](https://labofducks.web.app/decaffeinated/): ToDo app made with Vue.js using [Sugar](https://github.com/calogxro/sugar) (a tool for rapid web UI prototyping)
-- [caffeinated](http://3.72.37.48:8001/): ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
+- [caffeinated](http://3.72.37.48:8001/): ⚠ ToDo app made with Vue.js to sample [Caffeine](https://github.com/rehacktive/caffeine) MVB (Minimum Viable Backend)
 - [briscola.js](https://calogxro.github.io/demo/briscola.js/index.html): Briscola card game (JS, React.js)
 - [clicklog-ng](https://clicklogjs.web.app/): Based on [clicklog.js](https://github.com/calogxro/clicklog.js) - uses localstorage, Google Charts, AngularJS
 - [wr-search](https://addons.mozilla.org/en-US/firefox/addon/wordreference-dictionary/): Translate without leaving the page - WordReference Extension for 🦊 Firefox
